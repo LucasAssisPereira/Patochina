@@ -14,5 +14,5 @@ Trabalho da Materia de Estrutura de Dados
 6.  ``` pip install -r requirements.txt ```
 
 # Integrantes 🥶
-- Lucas Assis Pereira
-- Pedro Xavier Londonio
+- Lucas Assis Pereira-UC21104934
+- Pedro Xavier Londonio-UC21200125
